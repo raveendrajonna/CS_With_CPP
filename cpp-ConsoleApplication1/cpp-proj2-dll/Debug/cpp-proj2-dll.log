@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  cpp-proj2-dll.cpp
+  dllmain.cpp
+     Creating library C:\Raveendra\Practice\csharp\cpp-ConsoleApplication1\Debug\cpp-proj2-dll.lib and object C:\Raveendra\Practice\csharp\cpp-ConsoleApplication1\Debug\cpp-proj2-dll.exp
+  cpp-proj2-dll.vcxproj -> C:\Raveendra\Practice\csharp\cpp-ConsoleApplication1\Debug\cpp-proj2-dll.dll
+  cpp-proj2-dll.vcxproj -> C:\Raveendra\Practice\csharp\cpp-ConsoleApplication1\Debug\cpp-proj2-dll.pdb (Full PDB)

@@ -1,0 +1,5 @@
+C:\Raveendra\Practice\csharp\cpp-ConsoleApplication1\csharp_console1\bin\Debug\csharp_console1.exe.config
+C:\Raveendra\Practice\csharp\cpp-ConsoleApplication1\csharp_console1\bin\Debug\csharp_console1.exe
+C:\Raveendra\Practice\csharp\cpp-ConsoleApplication1\csharp_console1\bin\Debug\csharp_console1.pdb
+C:\Raveendra\Practice\csharp\cpp-ConsoleApplication1\csharp_console1\obj\Debug\csharp_console1.exe
+C:\Raveendra\Practice\csharp\cpp-ConsoleApplication1\csharp_console1\obj\Debug\csharp_console1.pdb
